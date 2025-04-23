@@ -1,2 +1,3 @@
 # ML-Project
-Build a system that can predict the prices for vehicles using data on Vehicle specifications,  make, etc. Explore the data to understand the features and figure out an approach.
+ Build a system that can predict pricing for a mobile phone using data on available phones in the
+ market. Predict if the mobile can be priced low/med/high/very high.
